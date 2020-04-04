@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PassarInfo</string>
+    <string name="Enviar" />
+    <string name="edit_message">Altura</string>
+    <string name="nome">nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="idade">Idade</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="Nome">nome</string>
+    <string name="Peso">peso</string>
+    <string name="Email">email</string>
+    <string name="Telefone">telefone</string>
+    <string name="Altura">altura</string>
+    <string name="Idade">idade</string>
+    <string name="button_send">send</string>
+
+</resources>
